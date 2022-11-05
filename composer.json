@@ -1,0 +1,11 @@
+{
+    "name": "user/ipt10-strapi",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10Strapi\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
